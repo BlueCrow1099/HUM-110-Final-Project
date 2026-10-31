@@ -34,3 +34,14 @@ body {
 .upper-header {
     font-size: 30px;
 }
+
+#filler-box {
+    border: solid;
+    border-width: 5px;
+    height: 300px;
+    width: 1000px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: auto;
+}
