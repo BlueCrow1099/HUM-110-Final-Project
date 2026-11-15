@@ -50,3 +50,7 @@ body {
 a {
     color:rgb(255, 150, 0)
 }
+
+p {
+    line-height: 1.5;
+}
