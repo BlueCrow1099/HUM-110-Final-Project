@@ -1,8 +1,8 @@
 body {
     font-family: 'Calibri', 'Candara', 'Segoe', 'Segoe UI', 'Optima', 'Arial', sans-serif;
     font-size: 20px;
-    color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
+    color: rgb(209, 156, 255);
+    background-color: rgb(74, 0, 134);
     margin: 0;
     padding: 0
 }
@@ -11,7 +11,9 @@ body {
     text-align: center;
     font-size: 20px;
     color: white;
-    background-color: rgb(91, 91, 91);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: rgb(255, 170, 0);
+    background-color: rgb(131, 49, 169);
     position: fixed;
     top: 0;
     left: 0;
@@ -44,4 +46,7 @@ body {
     justify-content:center;
     align-items: center;
     margin: auto;
+}
+a {
+    color:rgb(255, 150, 0)
 }
